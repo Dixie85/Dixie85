@@ -9,7 +9,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dixie85&style=flat&color=red" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Dixie85&style=for-the-badge&color=red" alt=""/>
 </div>
 
 
