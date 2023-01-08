@@ -15,12 +15,12 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
   <br>
-  welcome to my profile!!!
+  Welcome to my profile!
 </h2>
 
 
 
-### Hi there 👋
+
 
 
 
