@@ -1,8 +1,13 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420" />
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/dimitar-eftimov-393b4a254/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 
 
