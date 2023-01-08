@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420" />
 </div>
 
-<div id="badges" align="center">
+<div id="badges" align="center" style="margin-top: .6rem">
   <a href="https://www.linkedin.com/in/dimitar-eftimov-393b4a254/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
