@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420" />
 </div>
 
-<div id="badges" align="center" style="margin-top: .6rem">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dimitar-eftimov-393b4a254/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -17,10 +17,13 @@
   <br>
   Welcome to my profile!
 </h2>
+---
+## 👨‍💻: Little About Me :
+
+**I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Stockholm.**
 
 
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dixie85&theme=buefy-dark&background=000000)](https://git.io/streak-stats)
 
 
 
