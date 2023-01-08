@@ -23,8 +23,11 @@
 **I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Stockholm.**
 
 
+<div align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dixie85&theme=buefy-dark&background=000000)](https://git.io/streak-stats)
 
+<div>
 
 
 
