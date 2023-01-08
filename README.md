@@ -5,11 +5,11 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dimitar-eftimov-393b4a254/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dixie85&style=for-the-badge&color=red" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Dixie85&style=plastic&color=red" alt=""/>
 </div>
 
 
