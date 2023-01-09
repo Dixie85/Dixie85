@@ -65,6 +65,12 @@
 <div>
 
 
+# Man! I love my job ...
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif" width="420" />
+</div>
+
 
 <!--
 **Dixie85/Dixie85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
